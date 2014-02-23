@@ -1,5 +1,5 @@
 #locally  changed
-#kjjfkjhsdfk bisharat
+#locally bisharat
 
 #kjjfkjhsdfk jhifgrifgn
 #remotely changed
